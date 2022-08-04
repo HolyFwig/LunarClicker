@@ -5,7 +5,7 @@
 <h2 align="center">A simple browser game by Lunadox using JavaScript</h2><br>
 
 # Official Link to Play
-## Coming Soon...
+## https://lunadox-dev.github.io/g/LunarClicker/
 
 # Storyline
 ## We are preparing for our next mission to go to the moon, we need to collect a bunch of rocket fuel, click on the generator to generate gallons of rocket fuel.
